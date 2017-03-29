@@ -8,17 +8,19 @@ on the .NET blog.
 
 ## Finding .NET Open Source Projects
 
-There are many [open source .NET projects](dotnet-developer-projects.md), a few of which are listed below. Additionally [@quozd](https://github.com/quozd) maintains a list of [awesome open source .NET libraries, tools, frameworks, and software](https://github.com/quozd/awesome-dotnet).
+There are many [open source .NET projects](dotnet-developer-projects.md), a few of which are listed below. Additionally [@quozd](https://github.com/quozd) maintains a list of [awesome open source .NET libraries, tools, frameworks, and software](https://github.com/quozd/awesome-dotnet). [ASP.NET Core (and .NET Core) Library and Framework Support](https://github.com/jpsingleton/ANCLAFS) is listed at [ANCLAFS.com](https://ANCLAFS.com).
 
 
 
 * [.NET Compiler Platform ("Roslyn")](https://github.com/dotnet/roslyn)
 * [.NET Core](https://github.com/dotnet/core)
-* [ASP.NET 5](https://github.com/aspnet/home)
+* [ASP.NET Core](https://github.com/aspnet/home)
 * [EntityFramework](https://github.com/aspnet/EntityFramework)
+* [Orleans](https://github.com/dotnet/orleans)
 * [Exceptionless](https://github.com/exceptionless/Exceptionless)
 * [Glimpse](http://getglimpse.com)
 * [JSON.NET](http://json.net/)
+* [Mobius: C# API for Apache Spark](https://github.com/Microsoft/Mobius)
 * [MonoGame](http://monogame.net)
 * [Mono Project](https://github.com/mono/)
 * [MVVM Cross](https://github.com/MvvmCross/MvvmCross)
@@ -37,7 +39,7 @@ For a list of free services and tools for open source .NET projects, see:
 ## How to Engage, Contribute and Provide Feedback
 
 .NET open source projects from Microsoft (gladly) accept PRs and other
-contributions. To contribute to ASP.NET 5 or EntityFramework, see
+contributions. To contribute to ASP.NET Core or Entity Framework Core, see
 [the ASP.NET Contributing Guide](https://github.com/aspnet/Home/blob/master/CONTRIBUTING.md).
 To contribute to .NET Core, see the
 [.NET Core Contributing Guide](https://github.com/dotnet/corefx/wiki/Contributing).
@@ -52,7 +54,7 @@ details.
 Most .NET open source projects at Microsoft have been contributed to the
 [.NET Foundation](http://www.dotnetfoundation.org/projects). There are two main
 .NET Foundation projects for Microsoft open source projects:
-[ASP.NET Core 5 project](http://www.dotnetfoundation.org/aspnet-5)
+[ASP.NET Core project](http://www.dotnetfoundation.org/aspnet-core)
 and the [.NET Core project](http://www.dotnetfoundation.org/netcore).
 
 ## License
