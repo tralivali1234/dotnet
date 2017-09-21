@@ -4,6 +4,8 @@ This repository is a starting point to learn about and engage in .NET and .NET o
 
 This repo is not an official .NET Framework support location, however, we will respond to issues filed here as best we can. Please file .NET Core product issues at [dotnet/core](https://github.com/dotnet/core/issues) and ASP.NET Core product issues at [aspnet/home](https://github.com/aspnet/home/issues).
 
+You can try out the [.NET Framework 4.7.1](https://github.com/Microsoft/dotnet/blob/master/releases/net471/README.md) at the [.NET Framework Early Access](https://github.com/microsoft/dotnet-framework-early-access) site.
+
 ## In this repository
 
 - [.NET Framework Release Notes](releases/README.md)
@@ -56,6 +58,8 @@ Here is a short list of projects to check out:
 * [MonoGame](https://github.com/MonoGame/MonoGame)
 * [MVVM Cross](https://github.com/MvvmCross/MvvmCross)
 * [ReactiveUI](https://github.com/reactiveui/ReactiveUI)
+
+There are additional templates available for `dotnet new`. For more info see [Available templates for dotnet new](https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new)
 
 ## .NET Foundation
 
